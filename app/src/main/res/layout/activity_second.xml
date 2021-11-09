@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <data/>
+
+    <LinearLayout
+        android:padding="10dp"
+        android:background="@color/cardview_dark_background"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <TextView
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        android:text="@string/emission"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:textColor="@color/white"
+        android:id="@+id/tvEmissionCount"
+        android:textSize="40sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:textAlignment="viewEnd"
+            android:text="@string/info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <TextView
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        android:text="@string/trees"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:textSize="40sp"
+        android:textColor="@color/white"
+        android:id="@+id/tvTreesCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:textAlignment="viewEnd"
+        android:textColor="@color/white"
+        android:text="@string/person"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    </LinearLayout>
+
+    </LinearLayout>
+</layout>

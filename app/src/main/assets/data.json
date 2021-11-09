@@ -1,0 +1,172 @@
+{
+  "countries":[
+      {
+          "id": 1,
+          "name": "Austria",
+          "emission": 9.2
+        }
+      ,
+      {
+          "id": 2,
+          "name": "Belgium",
+          "emission": 10.8
+        }
+      ,
+      {
+          "id": 3,
+          "name": "Bulgaria",
+          "emission": 8.3
+        }
+      ,
+      {
+          "id": 4,
+          "name": "Croatia",
+          "emission": 5.9
+        }
+      ,
+      {
+          "id": 5,
+          "name": "Cyprus",
+          "emission": 11.4
+        }
+      ,
+      {
+          "id": 6,
+          "name": "Czechia",
+          "emission": 12.2
+        }
+      ,
+      {
+          "id": 7,
+          "name": "Denmark",
+          "emission": 8.9
+        }
+      ,
+      {
+          "id": 8,
+          "name": "Estonia",
+          "emission": 15.3
+        }
+      ,
+      {
+          "id": 9,
+          "name": "Finland",
+          "emission": 10.7
+        }
+      ,
+      {
+          "id": 10,
+          "name": "France",
+          "emission": 6.9
+        }
+      ,
+      {
+          "id": 11,
+          "name": "Germany",
+          "emission": 10.7
+        }
+      ,
+      {
+          "id": 12,
+          "name": "Greece",
+          "emission": 8.9
+        }
+      ,
+      {
+          "id": 13,
+          "name": "Hungary",
+          "emission": 6.6
+        }
+      ,
+      {
+          "id": 14,
+          "name": "Ireland",
+          "emission": 13.3
+        }
+      ,
+      {
+          "id": 15,
+          "name": "Italy",
+          "emission": 7.3
+        }
+      ,
+      {
+          "id": 16,
+          "name": "Latvia",
+          "emission": 6.3
+        }
+      ,
+      {
+          "id": 17,
+          "name": "Lithuania",
+          "emission": 7.4
+        }
+      ,
+      {
+          "id": 18,
+          "name": "Luxembourg",
+          "emission": 20.5
+        }
+      ,
+      {
+          "id": 19,
+          "name": "Malta",
+          "emission": 5.6
+        }
+      ,
+      {
+          "id": 20,
+          "name": "Netherlands",
+          "emission": 11.7
+        }
+      ,
+      {
+          "id": 21,
+          "name": "Poland",
+          "emission": 11
+        }
+      ,
+      {
+          "id": 22,
+          "name": "Portugal",
+          "emission": 7
+        }
+      ,
+      {
+          "id": 23,
+          "name": "Romania",
+          "emission": 6
+        }
+      ,
+      {
+          "id": 24,
+          "name": "Slovakia",
+          "emission": 8
+        }
+      ,
+      {
+          "id": 25,
+          "name": "Slovenia",
+          "emission": 8.5
+        }
+      ,
+      {
+          "id": 26,
+          "name": "Spain",
+          "emission": 7.5
+        }
+      ,
+      {
+          "id": 27,
+          "name": "Sweden",
+          "emission": 5.4
+        }
+      ,
+      {
+          "id": 28,
+          "name": "United Kingdom",
+          "emission": 7.5
+        }
+
+    ]
+}
