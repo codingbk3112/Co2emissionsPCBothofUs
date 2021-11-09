@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Co2emissionsPCBothofUs</string>
+    <string name="trees">Number of trees needed:</string>
+    <string name="info">metric tons of CO2 equivalent</string>
+    <string name="person">to offset carbon emission</string>
+    <string name="emission">Emission percapita :</string>
 </resources>
